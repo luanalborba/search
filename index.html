@@ -3,7 +3,7 @@
     <head>
         <title>Search</title>
         <style> 
-             .center {
+             input [type"text"] {
                 width: 50%;
                 height: 300%;
                 box-sizing: border-box;
@@ -13,12 +13,20 @@
                 color:green;
                 background-image: url('searchicon.png');
              }
+
+            .center{
+                margin: auto;
+            }
+
         </style>
     </head>
     <body>
-        <form action="https://www.google.com/search">
-            <input type="text" class "center" name="q" placeholder="Search..">
-            <input type="submit" value="Google Search">
-        </form>
+        <div class="center">
+            <form action="https://www.google.com/search">
+                <input type="text"  name="q" placeholder="Search..">
+                <input type="submit" value="Google Search">
+            </form>
+        </div> 
+       
     </body>
 </html>
