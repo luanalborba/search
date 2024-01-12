@@ -1,5 +1,4 @@
 .center {
-  width: 100%;
   width: 50%;
   box-sizing: border-box;
   margin: auto;
@@ -8,3 +7,8 @@
   border: 1px solid gainsboro;
 }
 
+input[type=submit]{
+  border-radius: 10px;
+  text-align: center;
+  border: 2px solid gainsboro;
+}
