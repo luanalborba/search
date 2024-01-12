@@ -7,12 +7,11 @@
   width: 90%;
 }
 input[type=text] {
-  width: 80%;
+  width: 100%;
   box-sizing: border-box;
   padding: 15px 20px;
   border-radius: 50px;
   border: 1px solid gainsboro;
-  background-image: url('search.png');
   background-position: 10px 10px;
   background-repeat: no-repeat;
 }
