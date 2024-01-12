@@ -2,8 +2,8 @@
   margin: auto;
   width: 80%;
 }
-.center {
-  width: 50%;
+input[type=text] {
+  width: 60%;
   box-sizing: border-box;
   padding: 15px 20px;
   border-radius: 50px;
@@ -11,7 +11,7 @@
   margin: auto;
 }
 
-.row{
+input[type=submit]{
   width: 10%;
   padding: 10px 20px;
   margin: auto;
