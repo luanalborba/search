@@ -11,6 +11,9 @@ input[type=text] {
   padding: 15px 20px;
   border-radius: 50px;
   border: 1px solid gainsboro;
+  background-image: url('search.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
 }
 
 input[type=submit]{
