@@ -1,6 +1,6 @@
 .container{
   margin: auto;
-  width: 800px;
+  width: 50%;
   border: 1px solid;
   text-align: center;
 }
@@ -10,7 +10,6 @@
   padding: 15px 20px;
   border-radius: 50px;
   border: 1px solid gainsboro;
-  text-decoration: none;
 }
 
 .row{
