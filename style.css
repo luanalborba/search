@@ -2,13 +2,15 @@
   margin: auto;
   width: 80%;
 }
-input[type=text] {
+.center{
+  margin: auto;
   width: 60%;
+}
+input[type=text] {
   box-sizing: border-box;
   padding: 15px 20px;
   border-radius: 50px;
   border: 1px solid gainsboro;
-  margin: auto;
 }
 
 input[type=submit]{
