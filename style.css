@@ -1,6 +1,6 @@
 .container{
   margin: auto;
-  width: 50%;
+  width: 80%;
   border: 1px solid;
   text-align: center;
 }
@@ -13,8 +13,6 @@
 }
 
 .row{
-  margin-left: 50px;
-  margin-top: 20px;
   width: 10%;
   padding: 10px 20px;
   border-radius: 10px;
