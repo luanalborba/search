@@ -16,10 +16,18 @@ input[type=text] {
   background-repeat: no-repeat;
 }
 
-.row{
+.row1{
   width: 10%;
   margin: auto;
+  float: right;
 }
+
+.row1{
+  width: 10%;
+  margin: auto;
+  float: left;
+}
+
 input[type=submit]{
   padding: 10px 20px;
   margin-top: 15px;
