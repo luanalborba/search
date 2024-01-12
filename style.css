@@ -3,6 +3,12 @@ form{
   margin-top: 50px;
   text-align: center;
 }
+
+.box{
+   width: 50%;
+   border: 1px solid;
+}
+
 .center {
   width: 50%;
   box-sizing: border-box;
