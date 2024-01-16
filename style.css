@@ -16,14 +16,18 @@ input[type=text] {
   background-repeat: no-repeat;
 }
 
+.bottons{
+   margin:auto;
+   width: 60%;
+}
+
 .row1{
   width: 10%;
   float: right;
 }
 
-.row1{
+.row2{
   width: 10%;
-  float: left;
 }
 
 input[type=submit]{
