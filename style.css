@@ -19,7 +19,7 @@ input[type=text] {
 .buttons{
    margin:auto;
    width: 30%;
-   border: 1px solid;
+   padding-top: 20px;
 }
 
 .row1{
@@ -36,6 +36,6 @@ input[type=submit]{
   padding: 10px 20px;
   margin-top: 15px;
   text-align: center;
-  border: 1px solid ghostwhite;
+  background-color: mintcream;
   cursor: pointer;
 }
