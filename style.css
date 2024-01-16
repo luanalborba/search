@@ -25,10 +25,12 @@ input[type=text] {
 
 .row1{
   width: 10%;
+  float: left;
 }
 
 .row2{
   width: 10%;
+  float: right;
 }
 
 input[type=submit]{
