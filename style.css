@@ -18,9 +18,7 @@ input[type=text] {
 
 .bottons{
    margin:auto;
-   width: 60%;
-   box-sizing: border-box;
-   text-align: center;
+   width: 30%;
    border: 1px solid;
 }
 
