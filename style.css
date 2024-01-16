@@ -19,18 +19,19 @@ input[type=text] {
 .bottons{
    margin:auto;
    width: 30%;
-   border: 1px solid;
    text-align: center;
 }
 
 .row1{
   width: 10%;
   float: left;
+  border-right: 10px;
 }
 
 .row2{
   width: 10%;
   float: right;
+  border-left: 10px;
 }
 
 input[type=submit]{
