@@ -1,6 +1,7 @@
 .container {
   margin: auto;
   width: 80%;
+  padding-top: 15px;
 }
 .center{
   margin: auto;
@@ -36,6 +37,7 @@ input[type=submit]{
   padding: 10px 20px;
   margin-top: 15px;
   text-align: center;
-  background-color: mintcream;
+  border: 1px solid white;
+  background-color: whitesmoke;
   cursor: pointer;
 }
