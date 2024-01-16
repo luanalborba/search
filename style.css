@@ -18,12 +18,11 @@ input[type=text] {
 
 .bottons{
    margin:auto;
-   width: 40%;
+   width: 20%;
 }
 
 .row1{
   width: 10%;
-  float: right;
 }
 
 .row2{
