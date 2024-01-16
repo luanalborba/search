@@ -4,7 +4,7 @@
 }
 .center{
   margin: auto;
-  width: 70%;
+  width: 60%;
 }
 input[type=text] {
   width: 100%;
@@ -25,13 +25,13 @@ input[type=text] {
 .row1{
   width: 10%;
   float: left;
-  border-right: 10px;
+  margin-left: 5px;
 }
 
 .row2{
   width: 10%;
   float: right;
-  border-left: 10px;
+  margin-right: 5px;
 }
 
 input[type=submit]{
